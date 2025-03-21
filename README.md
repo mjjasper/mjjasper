@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mjjasper
-- 👀 I’m interested in creating nifty new things
-- 🌱 I’m currently learning CSS, git, JS, API docs
 - 📫 How to reach me: michaeljasper.net
 
 <!---
